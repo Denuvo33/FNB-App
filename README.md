@@ -6,13 +6,9 @@ Company can receive the order from another app Called Master FNB App,so its 2 ap
 Here the master App https://github.com/Denuvo33/Master-FNB-App
 
 
-![Screenshot_1693822809](https://github.com/Denuvo33/FNB-App/assets/106959180/92f162b0-1cfc-4820-bae3-ca3c3b2c6af6)
+![fnbpic](https://github.com/Denuvo33/FNB-App/assets/106959180/3f6177b4-e970-4159-b31b-9152954b7ac3)
 
+![pic4 2](https://github.com/Denuvo33/FNB-App/assets/106959180/12f29f0b-85e9-4be1-9d42-5504c48df39e)
 
-
-![Screenshot_1693822922](https://github.com/Denuvo33/FNB-App/assets/106959180/fda7fb0c-2553-460e-b729-9daa559a8e1b)
-
-
-![Screenshot_1693822971](https://github.com/Denuvo33/FNB-App/assets/106959180/5ad40983-a93b-4d52-a79c-25a6abc8d4ea)
-
+![pic4 4](https://github.com/Denuvo33/FNB-App/assets/106959180/fad60390-d5dc-43f5-b2c8-fd15bd545f88)
 
